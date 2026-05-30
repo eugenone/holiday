@@ -12,7 +12,8 @@
 |---|---|---|
 | **Reisezeit** | November–März (Hochsaison) | → **Andamanküste** (Phuket, Krabi, Koh Yao Noi) ist die richtige Wahl: Trockenzeit, ruhige See, beste Bedingungen. Golf von Thailand (Samui) nur als Alternative. |
 | **Budget/Nacht** | CHF 300–550 | → **Premium-Tier**: strandnah, Privatpool, täglicher Service. Sweet-Spot zwischen „gehoben" und „Luxus". |
-| **Gruppe** | 2 Erw. + 1–2 kleine Kinder | → **2 Schlafzimmer** reichen meist; **Familientauglichkeit** (Pool-Sicherheit, Kinderbett, Spitalnähe) ist Pflichtkriterium. |
+| **Gruppe** | 2 Erw. + 1–2 kleine Kinder | → **2 Schlafzimmer** reichen meist. |
+| **Ambiente (Update)** | Ruhe & Exklusivität bevorzugt | → **Kinderfreundlichkeit ist KEIN Kriterium**; stille, erwachsenen-orientierte Lagen ohne Familien-/Kids-Club-Trubel werden bevorzugt. Freistehende Privatvillen > gated Family-Communities/Animations-Resorts. Pool-Sicherheit/Spitalnähe bleiben nur als allgemeine Vernunft-Punkte relevant, nicht als Auswahltreiber. |
 
 **Budget-Umrechnung (Richtwert, 2026):** CHF 1 ≈ THB 37 → CHF 300–550 ≈ **THB 11'000–20'000/Nacht**.
 

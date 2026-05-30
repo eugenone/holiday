@@ -47,14 +47,16 @@ Diese liegen **unter** dem Budget – ideal, wenn man das gesparte Geld in Priva
 
 ---
 
-## Preis-Leistungs-Empfehlung auf einen Blick
+## Preis-Leistungs-Empfehlung auf einen Blick *(auf Ruhe/Exklusivität gewichtet)*
 
 | Wenn euch wichtig ist… | Beste Wahl | Preis/Nacht |
 |---|---|---|
-| 💰 **Maximaler Value, zu Fuß zum Strand** | Krabi Villas Rentals (Klong Muang) | ~CHF 100–125 |
-| 👶 **Beste Familienausstattung im Budget** | Alisea (Ao Nang) / Oxygen (Bang Tao) | ~CHF 115–205 |
-| 🎯 **Premium-Sweet-Spot, rundum-sorglos** | The Residence Bang Tao (2 SZ) | ~CHF 425 |
-| 🏖️ **Beachfront-Feeling im Budget** | Coastal Escape (Koh Yao Noi) | ~CHF 365 |
-| 🛎️ **Höchster persönlicher Service** | Villa Lydia (Koh Yao Noi) | ~CHF 395–500 |
+| 🤫 **Maximale Ruhe/Exklusivität + Strand vor der Tür** | Coastal Escape (Koh Yao Noi) | ~CHF 365 |
+| 💰🤫 **Maximaler Value, stiller Strand zu Fuß** | Krabi Villas Rentals (Klong Muang) | ~CHF 100–125 |
+| 🛎️🤫 **Freistehende Villa + persönlicher Koch/Service** | The Villas Nai Harn | auf Anfrage |
+| **Ruhig, aber Phuket-Komfort in Reichweite** | Villa Tara (Layan) / Himmapana (Kamala) | ~CHF 200–265 |
+| 🎯 **Service-Maximum (Caveat: Resort-Anlage)** | The Residence Bang Tao (2 SZ) | ~CHF 425 |
 
-> **Faustregel für die Familie:** Mit dem Budget CHF 300–550 bekommt ihr in **Phuket Bang Tao/Kamala** und **Krabi/Koh Yao Noi** ein voll-serviciertes Premium-2-SZ. In **Krabi (Klong Muang)** bekommt ihr dieselbe Qualität deutlich günstiger (Self-catering) – das gesparte Geld reicht locker für einen **Privatkoch + Nanny**.
+> 👨‍👩‍👧 **Zurückgestuft** (familien-/animationslastig, passt weniger zum Ruhe-Wunsch): Alisea, Oxygen, Rawai Private Villas, Villa Tantawan.
+
+> **Faustregel:** Mit dem Budget CHF 300–550 bekommt ihr in **Koh Yao Noi**, **Phuket Layan/Kamala/Nai Harn** und **Krabi** eine ruhige, freistehende Premium-Privatvilla. In **Krabi (Klong Muang)** bekommt ihr dieselbe Qualität deutlich günstiger (Self-catering) – das gesparte Geld reicht locker für einen **Privatkoch**. Für maximale Ruhe/Exklusivität führt **Koh Yao Noi** (Coastal Escape).

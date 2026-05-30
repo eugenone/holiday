@@ -4,7 +4,9 @@
 > Umrechnung: **CHF 1 ≈ THB 37** (CHF 300–550 ≈ THB 11'000–20'000).
 > ⚠️ Alle Preise sind **Richtwerte aus Anbieter-/Suchergebnis-Snippets** und für Nov–März 2026 **direkt zu bestätigen** (Hochsaison-Aufschläge, oft 20–40 % über Durchschnitt). Pool-Zaun & Kinderbett bei jedem Objekt **schriftlich erfragen** – in TH selten Standard.
 
-Legende: ⭐ = Top-Empfehlung im Gebiet · 💰 = bestes Preis-Leistungs-Verhältnis · 🏖️ = zu Fuß zum Strand
+> **Präferenz-Update:** Ruhe/Exklusivität bevorzugt, **Kinderfreundlichkeit kein Kriterium** – ruhige Lagen ohne Familien-/Kids-Club-Trubel sind erwünscht. „Familien-/Kids-Club"-Features unten sind daher eher als *Abwertung* zu lesen, nicht als Pluspunkt.
+
+Legende: ⭐ = Top-Empfehlung im Gebiet · 💰 = bestes Preis-Leistungs-Verhältnis · 🏖️ = zu Fuß zum Strand · 🤫 = besonders ruhig/abgeschieden · 👨‍👩‍👧 = familien-/animationslastig (eher nicht gewünscht)
 
 ---
 
@@ -76,8 +78,10 @@ Legende: ⭐ = Top-Empfehlung im Gebiet · 💰 = bestes Preis-Leistungs-Verhäl
 
 ---
 
-### Gebiets-Fazit
-- **Maximale Infrastruktur + Service mit Kleinkind:** Gebiet 1 (Bang Tao – *The Residence*).
-- **Bestes Preis-Leistungs-Verhältnis & zu Fuß zum ruhigen Strand:** Gebiet 3 (*Krabi Villas Rentals*, Klong Muang) – aber Self-catering.
-- **Best dokumentierte Familienausstattung:** *Alisea* (Krabi) & *Villa Lydia* (Koh Yao Noi).
-- **Ruhe/Natur/Exklusiv:** Gebiet 4 (Koh Yao Noi) – dafür weniger Infrastruktur/Medizin.
+### Gebiets-Fazit *(auf Ruhe/Exklusivität gewichtet)*
+- 🤫 **Maximale Ruhe/Natur/Exklusivität (Top-Wunsch):** Gebiet 4 (Koh Yao Noi – *Coastal Escape*) – Stille & eigener Strandzugang; Trade-off: weniger Infrastruktur/Medizin.
+- 🤫 **Freistehende Privatvilla + persönlicher Service, kein Resort:** *The Villas Nai Harn* (Gebiet 2, Phuket-Süd).
+- 💰🤫 **Stiller gehobener Strand zu Fuß + bester Value:** Gebiet 3 (*Krabi Villas Rentals*, Klong Muang) – freistehend, Self-catering.
+- **Ruhig, aber Phuket-Komfort in Reichweite:** *Villa Tara* (Layan) / *Himmapana* (Kamala).
+- **Service-Maximum (Caveat: Resort-Anlage mit Gästen):** Gebiet 1 (Bang Tao – *The Residence*).
+- 👨‍👩‍👧 **Eher zurückgestuft** (familien-/animationslastig): Oxygen, Rawai Private Villas, Alisea, Villa Tantawan.

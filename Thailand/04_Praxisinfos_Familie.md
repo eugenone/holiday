@@ -30,7 +30,10 @@
 
 ---
 
-## 3. Pool-Sicherheit für Kleinkinder ⚠️ WICHTIG
+## 3. Pool-Sicherheit für Kleinkinder *(optional – laut Präferenz nachrangig)*
+
+> Hinweis: Kinderfreundlichkeit wurde als nachrangig markiert. Die folgenden Punkte nur berücksichtigen, falls für die eigenen Kinder dennoch relevant.
+
 
 - **Feste/abnehmbare Pool-Zäune sind in Thailand unüblich und schwer zu mieten** – **nicht** voraussetzen, dass eine Villa einen hat.
 - **Aktion:** Bei **jeder** Villa/Agentur **vor der Buchung schriftlich** fragen nach: Kinder-Poolzaun/Barriere, Poolalarm, Türschlösser, Nanny.

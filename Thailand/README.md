@@ -2,6 +2,7 @@
 
 Recherche für eine **Schweizer Familie** (2 Erwachsene + 1–2 kleine Kinder), Hochsaison **Nov–März**, Andamanküste.
 **Kriterien:** 2–3 Schlafzimmer · strandnah · gehoben–Top · **CHF 300–550/Nacht** · lokale Anbieter, online/direkt buchbar.
+**Präferenz:** **Ruhe, Privatsphäre & exklusives, erwachsenen-orientiertes Ambiente** – Kinderfreundlichkeit ist *kein* Kriterium, ruhige Lagen ohne Familien-/Kids-Club-Trubel werden bevorzugt.
 
 > Stand: 2026-05-30 · ⚠️ Alle Preise sind Richtwerte und vor Buchung direkt zu bestätigen.
 
@@ -16,9 +17,10 @@ Recherche für eine **Schweizer Familie** (2 Erwachsene + 1–2 kleine Kinder), 
 | [`04_Praxisinfos_Familie.md`](04_Praxisinfos_Familie.md) | Spital, Flüge, Nebenkosten, Pool-Sicherheit, Checkliste |
 | [`05_Empfehlung_Shortlist.md`](05_Empfehlung_Shortlist.md) | **→ Finale Top-5-Empfehlung & nächste Schritte** |
 
-## ⚡ Kurzfazit
-- **Beste Gesamtwahl:** *The Residence Bang Tao* (2 SZ, ~CHF 425, zu Fuß zum Strand, Voll-Service) – via lokale, französischsprachige Agentur Phuket Serenity Villas.
-- **Preis-Leistungs-Sieger:** *Krabi Villas Rentals* (Klong Muang, ~CHF 120, 100 m zum Strand) – günstig + lokal direkt.
-- **Beachfront im Budget:** *Coastal Escape* (Koh Yao Noi, ~CHF 365).
+## ⚡ Kurzfazit *(auf Ruhe/Exklusivität gewichtet)*
+- **Beste Gesamtwahl:** *Coastal Escape* (Koh Yao Noi, 2 SZ, ~CHF 365) – stillste/exklusivste Lage, eigener Strandzugang, lokal direkt.
+- **Freistehende Villa + Privatkoch, kein Resort:** *The Villas Nai Harn* (Phuket-Süd, ruhig).
+- **Preis-Leistungs-Sieger:** *Krabi Villas Rentals* (Klong Muang, ~CHF 120, 100 m zum stillen Strand) – freistehend, lokal direkt.
+- **Service-Maximum (Caveat: Resort-Anlage):** *The Residence Bang Tao* (~CHF 425, zu Fuß zum Strand).
 
 👉 Start: **[`05_Empfehlung_Shortlist.md`](05_Empfehlung_Shortlist.md)**
